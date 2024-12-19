@@ -1,0 +1,209 @@
+#outer
+{
+	height:auto;
+	width:100%;
+	margin:0px auto;
+}
+#header
+{
+	height:150px;
+	width:100%;
+	border-radius:15px;
+}
+#h1
+{
+	height:150px;
+	width:25%;
+	float:left;
+}
+#h2
+{
+	height:150px;
+	width:85%;
+	margin:0px auto;
+}
+#menu
+{
+height:50px;
+width:100%;
+margin:0px auto;
+margin-top:60px;
+}
+#menu ul
+{
+list-style-type:none;
+}
+#menu ul li
+{
+display:inline-block;
+font-size:22;
+padding:5px;
+width:15%;
+text-align:center;
+color:white;
+background:-o-linear-gradient(black 3%, maroon 100%);
+background:-webkit-linear-gradient(black 3%, maroon 100%);
+background:-moz-linear-gradient(black 3%, maroon 100%);
+}
+#menu ul li a
+{
+text-decoration:none;
+color:white;
+}
+#main
+{
+	height:500px;
+	width:100%;
+	
+}
+#main input
+{
+	height:40px;
+	width:300px;
+	border-radius:5px;
+	outline:1px;
+	text-align:center;
+	margin:20px;
+}
+body
+{
+background:-o-linear-gradient(black 3%, maroon 100%);
+background:-webkit-linear-gradient(black 3%, maroon 100%);
+background:-moz-linear-gradient(black 3%, maroon 100%);
+}
+table
+{
+	font-family:Calibri;
+	font-size:22;
+}
+#promain
+{
+	height:auto;
+	width:72%;
+	float:right;
+}
+#promain input
+{
+	height:40px;
+	width:300px;
+	border-radius:20px;
+	outline:1px;
+	text-align:center;
+	margin:10px;
+}
+#promain1
+{
+	height:auto;
+	width:72%;
+	float:right;
+}
+#promain1 table
+{
+	color:black;
+	font-size:24;
+}
+#promain1 table a 
+{
+	text-decoration:none;
+	color:maroon;
+}
+#promain1 input,textarea
+{
+	height:28px;
+	border-radius:6px;
+	text-align:center;
+}
+#prop_show
+{
+	height:200px;
+	width:50%;
+	background:-o-linear-gradient(black 3%, maroon 70%, black 90%);
+	background:-webkit-linear-gradient(black 3%, maroon 70%, black 90%);
+	background:-moz-linear-gradient(black 3%, maroon 70%, black 90%);
+	border-radius:20px 10px 20px 10px;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:100px;
+}
+#prop_pic 
+{
+	height:150px;
+	width:45%;
+	margin-top:28px;
+	margin-left:10px;
+	float:left;
+}
+#prop_detail
+{
+	height:150px;
+	width:50%;
+	margin-top:35px;
+	margin-right:10px;
+	float:right;
+}
+#prop_detail p
+{
+	font-size:20;
+	margin:-5px;
+	margin-left:10px;
+	color:white;
+}
+#ques
+{
+	height:200px;
+	width:90%;
+	font-family:AR Essence;
+	font-size:30;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+#ques textarea
+{
+	height:60%;
+	width:40%;
+}
+#ques1
+{
+	height:auto;
+	margin-top:50px;
+}
+#ques1 table th
+{
+	font-size:30;
+	font-family:AR Essence;
+	padding:10px;
+}
+#ques1 table td
+{
+	font-size:22;
+	padding:5px;
+	text-align:center;
+}
+#main_admin
+{
+	height:500px;
+	width:50%;
+	border:2px dotted white;
+	font-family:AR Essence;
+	font-size:30;
+	margin:0px auto;
+	margin-top:200px;
+}
+#main_admin input
+{
+	height:40px;
+	width:300px;
+	border-radius:5px;
+	outline:1px;
+	text-align:center;
+	margin:20px;
+	font-size:28;
+}
+#notify
+{
+	height:25px;
+	width:25px;
+	border:1px solid white;
+	border-radius:30px;
+	background:white;
+}
